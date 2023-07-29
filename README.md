@@ -1,3 +1,4 @@
 # Image-background-remover
 
-![Uploading 127.0.0.1_5501_index.html.png…]()
+
+![index html](https://github.com/ashmit0023/Image-background-remover/assets/128181934/ce0be50c-fcdd-4e2a-85d3-39121e744f95)
